@@ -27,8 +27,8 @@ setup(name="servicex_clients",
       url="https://github.com/ssl-hep/servicex_clients",
       license="TBD",
       install_requires=[
-          "func_adl_servicex==1.0",
-          "tcut-to-qastle==0.3",
+          "func_adl_servicex==1.0.1",
+          "tcut-to-qastle==0.4",
       ],
       classifiers=[
           # "Development Status :: 3 - Alpha",
