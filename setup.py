@@ -28,7 +28,7 @@ setup(name="servicex_clients",
       license="TBD",
       install_requires=[
           "func_adl_servicex==2.2",
-          "tcut-to-qastle==0.5",
+          "tcut-to-qastle==0.7",
       ],
       classifiers=[
           # "Development Status :: 3 - Alpha",
